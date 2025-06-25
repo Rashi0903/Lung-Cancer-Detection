@@ -37,7 +37,7 @@ Lung cancer remains one of the deadliest cancers worldwide, and early detection 
 
 ## 📂 Dataset
 
-- **Source:** Public lung CT scan dataset (Kaggle/LIDC-IDRI or custom annotated dataset)
+- **Source:** Public lung CT scan dataset (Kaggle)
 - **Format:** Grayscale 416x416 CT images
 - **Preprocessing:** Normalization, resizing, and augmentation using GANs
 
