@@ -55,17 +55,38 @@ Lung cancer remains one of the deadliest cancers worldwide, and early detection 
 
 ## 📈 Results
 
-| Model       | Accuracy | Precision | Recall | F1 Score |
-|-------------|----------|-----------|--------|----------|
-| EfficientNet | 94.6%    | 93.2%     | 95.1%  | 94.1%    |
-| MobileNet    | 91.2%    | 89.7%     | 90.4%  | 90.0%    |
-| With GAN     | +5% ↑ on average across all metrics |
+> ![image](https://github.com/user-attachments/assets/8ce3834f-780e-4bce-99f2-1d6d2aac64e7)
+
 
 > ⚡ Using GANs improved model robustness and reduced overfitting significantly.
 >
 ## 📸 Visual Results
 > Sample Images from the Dataset
 > ![image](https://github.com/user-attachments/assets/536bba6a-305d-46cc-bcd0-0d3724e59b43)
+
+>Augmented Images
+>![image](https://github.com/user-attachments/assets/d2a467b4-7386-493c-8ad5-467cf3d3b061)
+
+>EfficientNet
+>Test Accuracy: 96.47%
+>Precision: 91.63%
+>Recall: 98.94%
+>F1 Score: 95.14%
+>![image](https://github.com/user-attachments/assets/74572ed1-3c8d-4463-bd8e-51a0858249fc)
+
+>MobileNet
+>Test Accuracy: 93.88%
+>Precision: 93.79%
+>Recall: 88.30%
+>F1 Score: 90.96%
+>![image](https://github.com/user-attachments/assets/a84f0d02-d236-4d88-91b9-4f88e58fed55)
+
+>GAN
+> Accuracy: 0.9294
+> Precision: 0.9865
+> Recall: 0.8706
+> F1 Score: 0.9249
+>![image](https://github.com/user-attachments/assets/66136408-b60f-495d-a223-72a6b7241cc7)
 
 
 ---
