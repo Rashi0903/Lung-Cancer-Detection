@@ -62,6 +62,11 @@ Lung cancer remains one of the deadliest cancers worldwide, and early detection 
 | With GAN     | +5% ↑ on average across all metrics |
 
 > ⚡ Using GANs improved model robustness and reduced overfitting significantly.
+>
+## 📸 Visual Results
+> Sample Images from the Dataset
+> ![image](https://github.com/user-attachments/assets/536bba6a-305d-46cc-bcd0-0d3724e59b43)
+
 
 ---
 
